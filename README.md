@@ -1,4 +1,4 @@
-# Art+Logic Challenge
+# Weird Text Protocol
 
 Weird Text Protocol allows you to encode a string of arbitrary length into the corresponding list of integer values. It can also decode a list of integer values back into the original string.
 
